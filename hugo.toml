@@ -1,0 +1,4 @@
+baseURL = 'https://www.heyprakhar.xyz/'
+languageCode = 'en-us'
+title = "Prakhar's Life"
+theme = 'paper'
