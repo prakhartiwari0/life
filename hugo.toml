@@ -2,7 +2,7 @@ languageCode = 'en-us'
 title = "Prakhar's Life"
 theme = 'paper'
 
-baseURL = '/'
+baseURL = 'https://prakhartiwari0.github.io/life/'
 relativeURLs = true
 uglyURLs = true
 
